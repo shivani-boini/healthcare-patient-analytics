@@ -19,22 +19,20 @@ A healthcare operations team needed visibility into:
 
 ---
 
-## Project Structure
-healthcare-patient-analytics/
-│
-├── generate_healthcare_data.py   # Synthetic data generation (Faker + Pandas)
-├── analyze_healthcare.py         # SQL analysis queries (SQLite)
-├── healthcare_patients.csv       # Raw synthetic dataset (5,000 rows)
-│
-├── query_results/
-│   ├── q1_conversion_by_program.csv
-│   ├── q2_dropoff_by_channel.csv
-│   ├── q3_regional_performance.csv
-│   ├── q4_insurance_impact.csv
-│   ├── q5_age_program_engagement.csv
-│   └── q6_followup_impact.csv
-│
-└── README.md
+## Project Files
+
+| File | Description |
+|---|---|
+| `generate_healthcare_data.py` | Synthetic data generation using Faker + Pandas |
+| `analyze_healthcare.py` | SQL analytical queries using SQLite |
+| `healthcare_patients.csv` | Raw synthetic dataset — 5,000 rows, 15 columns |
+| `query_results/q1_conversion_by_program.csv` | Conversion rate by program |
+| `query_results/q2_dropoff_by_channel.csv` | Drop-off analysis by enrollment channel |
+| `query_results/q3_regional_performance.csv` | Regional performance breakdown |
+| `query_results/q4_insurance_impact.csv` | Insurance type impact on conversion |
+| `query_results/q5_age_program_engagement.csv` | Age group x program engagement |
+| `query_results/q6_followup_impact.csv` | Follow-up completion impact |
+| `README.md` | Project documentation |
 ---
 
 ## Dataset
