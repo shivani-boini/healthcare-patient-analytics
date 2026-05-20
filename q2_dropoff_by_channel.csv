@@ -1,0 +1,17 @@
+enrollment_channel,enrollment_status,patient_count,pct_of_channel
+In-Person,Active,546,45.5
+In-Person,Dropped,272,22.6
+In-Person,Completed,198,16.5
+In-Person,Enrolled,185,15.4
+Mobile App,Active,602,47.2
+Mobile App,Dropped,334,26.2
+Mobile App,Enrolled,186,14.6
+Mobile App,Completed,153,12.0
+Online Portal,Active,581,45.8
+Online Portal,Dropped,305,24.1
+Online Portal,Enrolled,195,15.4
+Online Portal,Completed,187,14.7
+Phone,Active,531,42.3
+Phone,Dropped,316,25.2
+Phone,Enrolled,208,16.6
+Phone,Completed,201,16.0

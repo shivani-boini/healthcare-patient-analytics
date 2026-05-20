@@ -1,0 +1,26 @@
+age_group,program,avg_engagement,conversion_rate_pct,patient_count
+18-30,Cardiac Wellness,6.36,61.4,215
+18-30,Diabetes Management,6.41,61.0,187
+18-30,Mental Health Support,6.13,60.2,196
+18-30,Preventive Care,6.35,60.1,198
+18-30,Weight Loss Program,6.15,56.1,198
+31-45,Diabetes Management,6.52,66.2,195
+31-45,Weight Loss Program,6.27,60.4,187
+31-45,Preventive Care,6.18,60.1,183
+31-45,Cardiac Wellness,6.07,59.7,191
+31-45,Mental Health Support,6.06,57.5,186
+46-60,Weight Loss Program,6.58,65.3,213
+46-60,Preventive Care,6.38,64.4,219
+46-60,Cardiac Wellness,6.2,59.3,204
+46-60,Mental Health Support,6.31,58.8,216
+46-60,Diabetes Management,5.76,53.5,202
+61-75,Mental Health Support,6.56,64.8,193
+61-75,Cardiac Wellness,6.39,63.1,203
+61-75,Weight Loss Program,6.22,60.0,220
+61-75,Diabetes Management,6.06,59.6,208
+61-75,Preventive Care,5.87,53.0,198
+75+,Diabetes Management,6.2,61.2,196
+75+,Mental Health Support,6.22,61.0,223
+75+,Preventive Care,6.12,58.6,186
+75+,Cardiac Wellness,5.93,57.1,191
+75+,Weight Loss Program,6.16,56.3,192
